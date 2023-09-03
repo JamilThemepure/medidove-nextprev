@@ -81,7 +81,7 @@ const Home = () => {
           <div className="row">
             <div className="col-md-12">
               <div className="intro-wrapper text-center">
-                <h2 className="wow fadeInUp" data-wow-delay=".3s">MediDove - Medical and Health span Template</h2>
+                <h2 className="wow fadeInUp" data-wow-delay=".3s">MediDove - Medical and Health React Next js Template</h2>
                 <p className="wow fadeInUp" data-wow-delay=".5s">Suitable for Hospitals, Dentists, Gynecologists, Physiatrists, Psychologists <br /> and Laboratories related website.</p>
               </div>
             </div>
